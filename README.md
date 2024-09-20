@@ -14,7 +14,7 @@ If you haven't already installed Poetry in your machine, you can do so by follow
 #### Setting Up the Project
 1. Clone the repo
 ```bash
-git clone git@github.com:sksoumik/chat-with-doc.git](https://github.com/rdmcoder123/Chat-with-Document.git
+git clone https://github.com/rdmcoder123/Chat-with-Document.git
 cd chat-with-doc
 ```
 2. Install Dependencies
