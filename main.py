@@ -17,7 +17,7 @@ genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 def main():
     st.set_page_config("Chat with PDFs and URLs")
-    st.header("RDM's Chat with your Research Paper")
+    st.header("RDM's  with your Research Paper")
 
     user_question = st.text_input("Ask a question")
 
